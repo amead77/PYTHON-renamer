@@ -1,6 +1,6 @@
 # renamer for mp3 files to correct filenames to my specification
 
-this converts the files in a directory from the format: The <artist> - <track>.<ext> to <artist>, The - <track>.<ext>
+this converts the files in a directory from the format: The [artist] - [track].[ext] to [artist], The - [track].[ext]
 example: The Beatles - Hey Jude.mp3 --> Beatles, The - Hey Jude.mp3
 it isn't perfect, but it works for my purposes
 I used chatgpt for the regex, because I'm lazy.
